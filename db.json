@@ -542,9 +542,15 @@
   ],
   "users": [
     {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$rRqRoTl0.Iw3ltU1oWtGYOqye7JvIIRaAw.qi2tR0AFqwNOnrCF5O",
+      "id": 2
+    },
+    {
       "email": "dinhngoclam28386@gmail.com",
-      "password": "$2a$10$vPGl7BW.9hBJ/mnatdfxjeYcw3nRKWdkxJl8lSqgUQSIwEec9Pehm",
-      "id": 1
+      "password": "$2a$10$nH5uqfhba3L/SGcNqeA49ezSeKpB/NeJS41z/e36AVdOON0RA7kn2",
+      "confirmPass": "123456",
+      "id": 4
     }
   ]
 }
